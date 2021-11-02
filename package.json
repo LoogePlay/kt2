@@ -1,0 +1,25 @@
+{
+  "name": "kt2",
+  "version": "1.0.0",
+  "description": "konrtochk",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoogePlay/kt2.git"
+  },
+  "keywords": [
+    "pip"
+  ],
+  "author": "Looge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoogePlay/kt2/issues"
+  },
+  "homepage": "https://github.com/LoogePlay/kt2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
