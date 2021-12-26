@@ -3,7 +3,7 @@ const app = express();
 const port = 8000;
 
 app.get('/', (req, res) => {
-  res.send('ХАХАХАХА ну я вроде запустил')
+  res.send('Простите, я не смог разобраться с роутингами')
 });
 
 app.listen(port, () => {
